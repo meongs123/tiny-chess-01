@@ -1,5 +1,9 @@
 # tiny-chess-01: noiruxx engine — v28
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/meongs123/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/meongs123/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 A 0x88-board alpha-beta chess engine in a single `main.py` (lzma-compressed
 payload + unpacker, within the 4,096-byte cap), Python 3.13 standard
 library only. It plays every game of the gauntlet through the env at
@@ -50,3 +54,7 @@ kit, unpack it, and from inside it run:
 It plays one practice trial against the house engines, replays it, and
 prints the Elo the scorer gives it. Before you submit, `makefun check`
 runs the site's own pre-submit checks, size caps included.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=vh95w5pk&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
